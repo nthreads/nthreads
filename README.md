@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nauman Zubair 🇵🇰
 - 🌱 I’m currently learning Python, data modeling, and predictive analysis
-- ✅ Talk about Android and Elasticserach
+- ✅ Passionate about Problem Solving, Android and Elasticserach
 - 💞️ I’m looking to collaborate on ingestion processors using NLP
-- 🧵 Check my blog nthreads.com
+- 🧵 Check out my blog nthreads.com
 - 📫 You can reach out to me at nauman.zubair@gmail.com
 
 
