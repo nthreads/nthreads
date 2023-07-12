@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nauman Zubair 🇵🇰
-- 🌱 I’m currently learning Python, data modeling, and predictive analysis
+- 🌱 I’m continously learning how to be a better leader
 - ✅ Passionate about Problem Solving, Android and Elasticserach
 - 💞️ I’m looking to collaborate on ingestion processors using NLP
 - 🧵 Check out my blog nthreads.com
