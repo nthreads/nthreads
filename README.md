@@ -15,7 +15,7 @@
 - 🧠 Strong expertise in **Jetpack Compose**, **MVVM/MVI**, **KMP**, **Clean Architecture**, **TDD**, **SOLID**, **Design Patterns**
 - 🔐 Well-versed in **Android security**, **AES/RSA encryption**, app obfuscation & secure data storage
 - 🧰 Architected large-scale solutions with robust codebases, readable architecture & testability
-- 📊 Shortlisted for the **Crown Prince Award** (Dubai)
+- 📊 Shortlisted one of my app for the **Crown Prince Award** (Dubai)
 - ✍️ I write about tech & leadership at [**nthreads.com**](https://nthreads.com)
 - 🧩 Passionate about solving complex problems & mentoring dev teams to grow technically
 
@@ -39,18 +39,11 @@
 
 ### 📄 Download My Resume
 
-[![Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Nauman_Zubair_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Nauman_Zubair_Resume.pdf?dl=1)
+
 
 ---
 
-### 📬 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 🧵 Auto-updated from [nthreads.com](https://nthreads.com) — powered by GitHub Actions
-
----
 
 ### 🏆 GitHub Contribution Map
 
