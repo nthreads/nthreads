@@ -45,27 +45,6 @@
 ---
 
 
-### 🏆 GitHub Contribution Map
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nthreads&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nthreads&show_icons=true&theme=tokyonight&count_private=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nthreads&theme=tokyonight" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nthreads&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### 🌐 Find Me Online
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naumanzubair)  
