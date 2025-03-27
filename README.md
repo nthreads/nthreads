@@ -41,6 +41,15 @@
 
 [![Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Nauman_Zubair_Resume.pdf?dl=1)
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nthreads&show_icons=true&theme=tokyonight&count_private=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nthreads&theme=tokyonight" height="170px"/>
+</p>
+
 
 ---
 
