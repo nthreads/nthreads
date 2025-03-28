@@ -53,14 +53,9 @@
 
 ### 📊 GitHub Stats
 
-<!-- Dark Mode -->
-<p align="center" id="gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=nthreads&show_icons=true&count_private=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nthreads&theme=tokyonight" height="170px"/>
-</p>
 
 <!-- Light Mode -->
-<p align="center" id="gh-light-mode-only">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nthreads&show_icons=true&count_private=true" height="170px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nthreads" height="170px"/>
 </p>
