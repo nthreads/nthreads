@@ -19,7 +19,6 @@
 - ✍️ I write about tech & leadership at [**nthreads.com**](https://nthreads.com)
 - 🧩 Passionate about solving complex problems & mentoring dev teams to grow technically
 
----
 
 ### ⚙️ Tech Stack
 
@@ -35,7 +34,15 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 
----
+### 🌐 Find Me Online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naumanzubair)
+[![GitHub](https://img.shields.io/badge/GitHub-nthreads-black?style=flat&logo=github&logoColor=white)](https://github.com/nthreads)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/naumanzubair)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1074986/nauman-zubair)
+[![Blog](https://img.shields.io/badge/Blog-nthreads.com-blueviolet?style=flat&logo=google-chrome&logoColor=white)](https://nthreads.com)
+[![Email](https://img.shields.io/badge/Email-nauman.zubair@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:nauman.zubair@gmail.com)
+
 
 ### 📄 Download My Resume
 
@@ -50,17 +57,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nthreads" height="170px"/>
 </p>
 
----
-
-
-### 🌐 Find Me Online
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naumanzubair)  
-[![GitHub](https://img.shields.io/badge/GitHub-nthreads-black?style=flat&logo=github&logoColor=white)](https://github.com/nthreads)  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/naumanzubair)  
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1074986/nauman-zubair)  
-[![Blog](https://img.shields.io/badge/Blog-nthreads.com-blueviolet?style=flat&logo=google-chrome&logoColor=white)](https://nthreads.com)  
-[![Email](https://img.shields.io/badge/Email-nauman.zubair@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:nauman.zubair@gmail.com)
 
 ---
 
