@@ -50,7 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
@@ -58,14 +57,12 @@
 <p align="center" id="gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=nthreads&show_icons=true&count_private=true&theme=tokyonight" height="170px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nthreads&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nthreads&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 <!-- Light Mode -->
 <p align="center" id="gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=nthreads&show_icons=true&count_private=true" height="170px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nthreads" height="170px"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nthreads&theme=light" alt="GitHub Activity Graph" />
 </p>
 
 ---
