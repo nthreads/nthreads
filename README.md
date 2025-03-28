@@ -19,29 +19,29 @@
 - ✍️ I write about tech & leadership at [**nthreads.com**](https://nthreads.com)
 - 🧩 Passionate about solving complex problems & mentoring dev teams to grow technically
 
-
 ### ⚙️ Tech Stack
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Unity 3D](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Expert-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-iOS-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Unity 3D](https://img.shields.io/badge/Unity3D-Games-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Game%20Dev-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-IDE-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-Apple%20IDE-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
 
 ### 🌐 Find Me Online
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naumanzubair)
-[![GitHub](https://img.shields.io/badge/GitHub-nthreads-black?style=flat&logo=github&logoColor=white)](https://github.com/nthreads)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/naumanzubair)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1074986/nauman-zubair)
-[![Blog](https://img.shields.io/badge/Blog-nthreads.com-blueviolet?style=flat&logo=google-chrome&logoColor=white)](https://nthreads.com)
-[![Email](https://img.shields.io/badge/Email-nauman.zubair@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:nauman.zubair@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naumanzubair)
+[![GitHub](https://img.shields.io/badge/GitHub-nthreads-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nthreads)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/naumanzubair)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1074986/nauman-zubair)
+[![Blog](https://img.shields.io/badge/Blog-nthreads.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nthreads.com)
+[![Email](https://img.shields.io/badge/Email-nauman.zubair@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nauman.zubair@gmail.com)
 
 
 ### 📄 Download My Resume
