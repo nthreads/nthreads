@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Nauman Zubair 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=🚀+Mobile+App+Architect+%7C+Tech+Leader;🎮+Unity+3D+Games+Developer+%7C+iOS%2FAndroid+Specialist;🔍+Elasticsearch+Evangelist+%7C+R%26D+Champion;Let's+build+efficient+%26+scalable+apps+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=650&lines=🚀+Mobile+App+Architect+%7C+Tech+Leader;🎮+Unity+3D+Games+Developer+%7C+iOS%2FAndroid+Specialist;🔍+Elasticsearch+Evangelist+%7C+R%26D+Champion;Let's+build+efficient+%26+scalable+apps+together!" alt="Typing SVG" />
 </p>
 
 <p align="center">
