@@ -43,13 +43,13 @@
 [![Blog](https://img.shields.io/badge/Blog-nthreads.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nthreads.com)
 [![Email](https://img.shields.io/badge/Email-nauman.zubair@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nauman.zubair@gmail.com)
 
-
+<!-- 
 ### 📄 Download My Resume
 
 [![Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Nauman_Zubair_Resume.pdf?dl=1)
 
 ---
-
+ -->
 
 ### 📊 GitHub Stats
 
